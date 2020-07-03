@@ -8,8 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.motion.widget.MotionLayout;
 
 public class MainActivity extends AppCompatActivity {
-    String TAG = "yunis";
-    MotionLayout motionLayout;
+   
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
